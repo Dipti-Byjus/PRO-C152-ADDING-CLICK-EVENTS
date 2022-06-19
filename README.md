@@ -1,3 +1,4 @@
-# PRO-VR-C152
+in index.html you need to put the A-frame library and the components 
 
-After Class Project C152
+
+in car.js put the position
